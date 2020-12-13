@@ -1,0 +1,40 @@
+.box_position{
+
+      height: 100px;
+      width: 150px;
+      background-color:#ba68c8 ;
+      margin-left: 80%;   
+      margin-top: -470px; 
+}
+.box_position1{
+
+    height: 100px;
+    width: 150px;
+    background-color:#00bfa5 ;
+    margin-left: 80%;    
+}
+.box_position2{
+
+    height: 100px;
+    width: 150px;
+    background-color:#e91e63 ;
+    margin-left: 80%;    
+}
+
+.box_position3{
+
+    height: 100px;
+    width: 150px;
+    background-color:#388e3c ;
+    margin-left: 80%;    
+}
+.color1 {
+
+    color: azure;
+    font-weight: bold;
+    margin-right: 0;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+
+ 
+ }
